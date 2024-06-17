@@ -1,0 +1,253 @@
+[
+    {
+        "id": 1183606,
+        "name": "Balochistan Province",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 66.0,
+            "lat": 28.0
+        }
+    },
+    {
+        "id": 1167710,
+        "name": "Punjab Province",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 72.319763,
+            "lat": 30.86017
+        }
+    },
+    {
+        "id": 1164807,
+        "name": "Sindh Province",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 68.7696,
+            "lat": 26.13456
+        }
+    },
+    {
+        "id": 1168873,
+        "name": "Khyber Pakhtunkhwa Province",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 72.502373,
+            "lat": 34.45993
+        }
+    },
+    {
+        "id": 1184196,
+        "name": "Azad Kashmir Region",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 73.9104,
+            "lat": 33.947182
+        }
+    },
+    {
+        "id": 1168878,
+        "name": "Gilgit-Baltistan Region",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 75.0,
+            "lat": 36.0
+        }
+    },
+    {
+        "id": 1176615,
+        "name": "Islamabad Region",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 73.043289,
+            "lat": 33.721481
+        }
+    },
+    {
+        "id": 1176615,
+        "name": "Islamabad",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 73.043289,
+            "lat": 33.721481
+        }
+    },
+    {
+        "id": 1174872,
+        "name": "Karachi",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 67.082199,
+            "lat": 24.9056
+        }
+    },
+    {
+        "id": 1172451,
+        "name": "Lahore",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 74.343613,
+            "lat": 31.549721
+        }
+    },
+    {
+        "id": 1166993,
+        "name": "Rawalpindi",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 73.067902,
+            "lat": 33.6007
+        }
+    },
+    {
+        "id": 1183880,
+        "name": "Bahawalpur",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 71.683327,
+            "lat": 29.4
+        }
+    },
+    {
+        "id": 1179400,
+        "name": "Faisalabad",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 73.083328,
+            "lat": 31.41667
+        }
+    },
+    {
+        "id": 1169825,
+        "name": "Multan",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 71.475281,
+            "lat": 30.19556
+        }
+    },
+    {
+        "id": 1176734,
+        "name": "Hyderabad",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 68.373657,
+            "lat": 25.39242
+        }
+    },
+    {
+        "id": 1164408,
+        "name": "Sukkur",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 68.857384,
+            "lat": 27.70516
+        }
+    },
+    {
+        "id": 1177654,
+        "name": "Gujrat",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 74.078972,
+            "lat": 32.572842
+        }
+    },
+    {
+        "id": 1167528,
+        "name": "Quetta",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 67.009712,
+            "lat": 30.198999
+        }
+    },
+    {
+        "id": 1177446,
+        "name": "Gwadar",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 62.325409,
+            "lat": 25.12163
+        }
+    },
+    {
+        "id": 1177662,
+        "name": "Gujranwala",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 74.188309,
+            "lat": 32.161671
+        }
+    },
+    {
+        "id": 1177682,
+        "name": "Gujar Khan",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 73.302551,
+            "lat": 33.255791
+        }
+    },
+    {
+        "id": 1177757,
+        "name": "Goth Warayo",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 67.224998,
+            "lat": 24.915001
+        }
+    },
+    {
+        "id": 1178148,
+        "name": "Gorcop",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 63.541389,
+            "lat": 25.874722
+        }
+    },
+    {
+        "id": 1178231,
+        "name": "Gojra",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 72.686562,
+            "lat": 31.148741
+        }
+    },
+    {
+        "id": 1178285,
+        "name": "Gush Tang",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 63.0308,
+            "lat": 25.9972
+        }
+    },
+]
+
